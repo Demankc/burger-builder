@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Navigation",
+    "\\src\\components\\Navigation\\NavigationItems",
+    "\\src\\components\\Navigation\\NavigationItems\\NavigationItem",
+    "\\src\\components\\Navigation\\SideDrawer",
+    "\\src\\components\\Navigation\\SideDrawer\\DrawerToggle",
+    "\\src\\containers",
+    "\\src\\containers\\Checkout",
+    "\\src\\containers\\Checkout\\ContactData"
+  ],
+  "SelectedNode": "\\src\\containers\\Checkout\\ContactData\\ContactData.js",
+  "PreviewInSolutionExplorer": false
+}
