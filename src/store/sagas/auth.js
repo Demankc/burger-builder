@@ -4,7 +4,7 @@ import {delay} from 'redux-saga/effects';
 import * as actions from "../actions/index";
 import axios from "axios";
 
-const apiKey = 'AIzaSyDvTM-Y9wPPC69vaUp1jEfqhO13HV7iguY';
+const apiKey = '';
 
 export function* logoutSaga(action) {
     yield call([localStorage, 'removeItem'], 'token');
