@@ -1,7 +1,7 @@
 import * as actionTypes from './actionTypes';
 import axios from 'axios';
 
-const apiKey = 'AIzaSyDvTM-Y9wPPC69vaUp1jEfqhO13HV7iguY';
+const apiKey = '';
 export const authStart = () => {
     return {
         type: actionTypes.AUTH_START
